@@ -18,4 +18,4 @@ Install the Arduino IDE according to the official guide:
 https://www.arduino.cc/en/Guide/HomePage
 
 # install/upload
-Place the folder of the game you want to play in your sketch folder, then upload the INO file.
+Place the folder of the program in your sketch folder, then upload the INO file.
